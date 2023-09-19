@@ -19,4 +19,8 @@
     - Good enough
 2. Design website
     - Tools allowed? (ie figma)
-3. 
+3. Any recommendations?
+    - ie. Solar panel distribution, efficiency...
+4. Programming language
+    - Backend - python
+    - Frontend - JavaScript, python, html....
