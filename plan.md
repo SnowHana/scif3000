@@ -1,4 +1,6 @@
 
+# Time Frame
+
 
 # Back end
 1. Collect Data 
@@ -25,6 +27,27 @@
 	- Renewable energy - definition
 	- Types (Solar, Wind....)
 - Data Source
+### Core Data
+#### NEM
+-https://opennem.org.au/energy/nem/?range=7d&interval=30m
+
+- State break
+	- Supply by Fuel Type
+	- Demand by Fuel Type
+	- Compare renewable and non-renewable energy usage
+	- Repeat for supply and demand
+
+-https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/data-nem/aggregated-data
+
+- State break
+
+- Demand, supply for every sources, and region
+- Use data to make graph
+
+### Optional
+- Extra stuff : solar panel (distribution, efficiency etc)
+
+
 [^1]
 
 [^1]: Collecting data on the progress of renewable energy in Australia involves gathering information from various sources, including government agencies, research institutions, industry reports, and more. Here's a step-by-step guide on how to collect data on renewable energy progress in Australia:
