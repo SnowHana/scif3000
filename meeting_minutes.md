@@ -29,5 +29,6 @@
 - Daniel : Take a look at data, try implementing feature
 - Riley : Getting used to python
 - Mei yi, Haloan : Search renewable data usage on Tasmania
-- TODO: we'll start writing our design plan from next week (W3)
++ Try out figma (or any other website in article) if interested in front end
+>TODO: we'll start writing our design plan from next week (W3)
 
