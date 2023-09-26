@@ -79,3 +79,15 @@
 11. Citations and References: When using data from external sources, make sure to provide proper citations and references in your reports or research to maintain academic and ethical integrity.
     
 12. Data Privacy and Ethics: Respect data privacy and ethical considerations when collecting and using data. Ensure that you have the necessary permissions to access and use any data, especially if it involves personal or sensitive information. (BY CHAT GPT)
+
+
+
+# Project Plan
+
+-  Background (200 words): Meiyi
+
+- Aims and Rationale (200 words) + Output (200 words): Haoran
+
+- Timeline(100 words) + Charter: Riley
+
+- Concerns (200 words): Daniel
